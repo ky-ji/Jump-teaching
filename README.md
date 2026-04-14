@@ -177,11 +177,14 @@ bash scripts/jumpteaching_webvision.sh
 If you find this code useful for your research, please cite our paper:
 
 ```bibtex
-@article{ji2024jump,
-  title={Jump-teaching: Ultra Efficient and Robust Learning with Noisy Label},
-  author={Ji, Kangye and Cheng, Fei and Wang, Zeqing and Huang, Bohu},
-  journal={arXiv preprint arXiv:2405.17137},
-  year={2024}
+@inproceedings{ji2026jump,
+  title={Jump-teaching: Combating Sample Selection Bias via Temporal Disagreement},
+  author={Ji, Kangye and Cheng, Fei and Wang, Zeqing and Zhang, Qichang and Huang, Bohu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={26},
+  pages={22191--22199},
+  year={2026}
 }
 ```
 
